@@ -1,6 +1,4 @@
 # Cheaper Airline Conection
-This is a python coding exercise that checks if we can get a cheaper flight by flying long distance.
-
 ## Problem
 COMPANY X employees are trying to find the cheapest flights to upcoming conferences.
 
