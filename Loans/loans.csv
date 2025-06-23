@@ -1,0 +1,12 @@
+id,user_id,created_at,status,type
+1,100,4/21/2017,prequal_completd_offer,Refinance
+2,100,4/27/2017,offer_accepted,Refinance
+3,101,4/22/2017,prequal_completd_no_offer,Refinance
+4,101,4/23/2017,offer_accepted,Refinance
+5,101,4/25/2017,offer_accepted,Personal
+6,102,4/27/2017,offer_accepted,InSchool
+7,107,4/27/2017,prequal_response_received,Personal
+8,108,4/21/2017,form_in_progress,Refinance
+9,108,4/27/2017,offer_accepted,Refinance
+10,108,4/27/2017,prequal_response_received,InSchool
+11,100,4/21/2015,prequal_completd_offer,Refinance
