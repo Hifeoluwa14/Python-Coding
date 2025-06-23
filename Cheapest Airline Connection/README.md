@@ -5,7 +5,7 @@ This is a python coding exercise that checks if we can get a cheaper flight by f
 COMPANY X employees are trying to find the cheapest flights to upcoming conferences.
 
 
-When people fly long distances, a direct city-to-city flight is often more expensive than taking two flights with a stop in a hub city. Travelers might save even more money by breaking the trip into three flights with two stops. But for the purposes of this challenge, let's assume that no one is willing to stop three times. The table contains the following columns:
+When people fly long distances, a direct city-to-city flight is often more expensive than taking two flights with a stop in a hub city. Travelers might save even more money by breaking the trip into three flights with two stops. But for the purposes of this challenge, let's assume that no one is willing to stop three times. The table da_flights contains the following columns:
 
 •   id - the unique ID of the flight;
 
@@ -29,4 +29,4 @@ The cities are all represented by three-letter uppercase abbreviations.
 Note: A flight from SFO to JFK is considered different from a flight from JFK to SFO.
 
 ## Solution
-Solution to the above problem is in the notebook attached to this branch. Each steps is well documented in the notebook.
+Solution to the above problem is implemented in Pandas. Each step is well documented in the notebook.
