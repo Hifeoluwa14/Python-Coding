@@ -1,27 +1,23 @@
 # Best-Selling Item
-This is a python exercise that helps to find out what items sells most for each month.
-
-## Problem
-Find the best-selling item for each month (no need to separate months by year). The best-selling item is determined by the highest total sales amount. Output the month, description of the item, and the total amount paid. The table contains the following columns:
+## Problem Statement 
+Find the best-selling item for each month (no need to separate months by year). The best-selling item is determined by the highest total sales amount. Output the month, description of the item, and the total amount paid. The data is provided in a dataframe named online_retail.csv and it contains the following columns:
 
 •   invoiceno - invoice number for each purchase;
 
 •   stockcode - code for each stock;
 
-•   description - stock name;
+•   description - product name;
 
-•   quantity - number of stock purchased;
+•   quantity - number of unit purchased;
 
 •   invoicedate - date of purchase;
 
-•   unitprice - price per quantity;
+•   unitprice - price per unit;
 
-•   customerid - buyers infomation;
+•   customerid - customer unique id;
 
 •   country - country of purchase.
 
 
-Dataframe : online_retail
-
 ## Solution
-Solution to the above is problem is in the attached notebook and well documented.
+The Solution to the problem is available in the attached Jupyter notebook. It well documented and easy to follow
