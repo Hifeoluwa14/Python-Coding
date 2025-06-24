@@ -20,7 +20,7 @@ The data is provided in a dataframe named employee. This dataframe contains the 
 
 • salary - basic salary of each employee;
 
-• target - code for each stock;
+• target - sales target;
 
 • bonus - bonus on salary;
 
