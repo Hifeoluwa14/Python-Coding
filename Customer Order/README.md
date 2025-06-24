@@ -10,30 +10,28 @@ The customers dataframe contains the following columns:
 
 • id - customer unique id;
 
-• first_name - customer first name;
+• first_name - first name of customer;
 
-• last_name - customer last name;
+• last_name - last name of customer;
 
-• city- City of customer;
+• city- residential city of customer;
 
-• address - customer address;
+• address - customer's address;
 
-• phone_number - customer phone number;
-
-• customerid - customer unique id;
+• phone_number - customer's phone number.
 
 The orders dataframe contain the following columns;
 
-• id - order unique id;
+• id - unique order id;
 
 • cust_id - unique id of customer who placed order;
 
-• order_date - date of order;
+• order_date - date when order was placed;
 
-• order_details - product details;
+• order_details - product name;
 
 • total_order_cost - total cost of order.
 
 
 ## Solution
-The Solution to the problem is available in the attached Jupyter notebook. It well documented and easy to follow
+The Solution to the problem is available in the attached Jupyter notebook. It well documented and easy to follow.
