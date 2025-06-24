@@ -2,7 +2,7 @@
 ## Problem Statement 
 Write a query that returns the user ID of all users that have created at least one ‘Refinance’ submission and at least one ‘InSchool’ submission.
 
-The data is provided in a dataframe named online_retail.csv and it contains the following columns:
+The data is provided in a dataframe named loans.csv and it contains the following columns:
 
 • id - submission id;
 
