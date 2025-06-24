@@ -1,6 +1,12 @@
 # Customer Order
-## Problem Statement
-Find the best-selling item for each month (no need to separate months by year). The best-selling item is determined by the highest total sales amount. Output the month, description of the item, and the total amount paid. The data is provided in a dataframe named online_retail.csv and it contains the following columns:
+## Problem Statement 
+Find the customer with the highest daily total order cost between 2019-02-01 to 2019-05-01. If customer had more than one order on a certain day, sum the order costs on daily basis.Output customer's first name, total cost of their items, and the date.
+
+For simplicity, you can assume that every first name in the dataset is unique.
+
+The data is provided in 2 dataframe named customers and orders. 
+
+The customers dataframe contains the following columns:
 
 • invoiceno - invoice number for each purchase;
 
