@@ -8,21 +8,32 @@ The data is provided in 2 dataframe named customers and orders.
 
 The customers dataframe contains the following columns:
 
-• invoiceno - invoice number for each purchase;
+• id - customer unique id;
 
-• stockcode - code for each stock;
+• first_name - customer first name;
 
-• description - product name;
+• last_name - customer last name;
 
-• quantity - number of unit purchased;
+• city- City of customer;
 
-• invoicedate - date of purchase;
+• address - customer address;
 
-• unitprice - price per unit;
+• phone_number - customer phone number;
 
 • customerid - customer unique id;
 
-• country - country of purchase.
+The orders dataframe contain the following columns;
+
+• id - order unique id;
+
+• cust_id - unique id of customer who placed order;
+
+• order_date - date of order;
+
+• order_details - product details;
+
+• total_order_cost - total cost of order.
+
 
 ## Solution
 The Solution to the problem is available in the attached Jupyter notebook. It well documented and easy to follow
