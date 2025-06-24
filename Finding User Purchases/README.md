@@ -6,7 +6,7 @@ The data is provided in a dataframe named online_retail.csv and it contains the 
 
 • id - unique id of transaction;
 
-• user_id - unique if of user making purchase;
+• user_id - unique id of user making purchase;
 
 • item - product name;
 
