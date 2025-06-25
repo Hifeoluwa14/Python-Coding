@@ -1,0 +1,51 @@
+actor_name,genre,movie_rating,movie_title,release_date,production_company
+Ryan Gosling,drama,9,Urban Hunt,7/3/2017,Google
+Ryan Gosling,sci-fi,8.9,Veil of Secrets,12/23/2015,Apple
+Chris Evans,drama,6.1,Crimson Chase,8/10/2017,Apple
+Meryl Streep,drama,8.2,Veil of Secrets,9/15/2019,Google
+Jennifer Lawrence,thriller,9,Whispers in the Wind,10/15/2016,Disney
+Chris Evans,action,7.1,Crimson Chase,10/10/2018,Netflix
+Ryan Gosling,romance,8.9,Frozen Horizon,10/8/2021,Amazon
+Emma Stone,sci-fi,7.8,The Last Stand,3/31/2019,Netflix
+Denzel Washington,action,9.3,Eternal Ember,1/21/2019,Apple
+Leonardo DiCaprio,sci-fi,6.3,Urban Hunt,3/31/2018,Netflix
+Leonardo DiCaprio,drama,7.5,Shadow Realm,2/16/2022,Warner Bros
+Natalie Portman,comedy,7.5,Crimson Chase,7/8/2022,Amazon
+Ryan Gosling,thriller,9,Veil of Secrets,3/6/2023,Google
+Scarlett Johansson,romance,8.9,Veil of Secrets,6/18/2017,Disney
+Natalie Portman,drama,6.9,Breaking the Silence,7/16/2018,Meta
+Tom Hardy,drama,9,Time’s Edge,1/19/2023,Amazon
+Leonardo DiCaprio,sci-fi,8,Shadow Realm,8/8/2016,Amazon
+Scarlett Johansson,comedy,9,Veil of Secrets,12/12/2017,Disney
+Meryl Streep,romance,9.6,Deep Impact,1/22/2019,Google
+Scarlett Johansson,thriller,9,Breaking the Silence,3/25/2016,Google
+Scarlett Johansson,sci-fi,8.9,Edge of Memory,4/26/2019,Meta
+Meryl Streep,romance,8.1,Veil of Secrets,2/17/2015,Disney
+Ryan Gosling,sci-fi,9,Echoes of War,3/10/2022,Amazon
+Ryan Gosling,action,9,Shadow Realm,1/14/2015,Disney
+Tom Hardy,thriller,9.2,Bound by Honor,3/11/2016,Warner Bros
+Tom Hardy,sci-fi,8.9,Crimson Chase,9/18/2016,Amazon
+Scarlett Johansson,thriller,9,Bound by Honor,1/3/2015,Apple
+Natalie Portman,romance,6.1,Frozen Horizon,6/13/2018,Google
+Emma Stone,comedy,9.5,Edge of Memory,12/17/2015,Disney
+Jennifer Lawrence,drama,9,Veil of Secrets,5/30/2016,Google
+Jennifer Lawrence,thriller,9,Bound by Honor,10/20/2021,Meta
+Leonardo DiCaprio,thriller,9,Crimson Chase,12/30/2022,Amazon
+Chris Evans,sci-fi,8.6,Shadow Realm,10/20/2020,Meta
+Ryan Gosling,comedy,9,The Silent Voice,3/28/2015,Apple
+Denzel Washington,comedy,8.4,Whispers in the Wind,10/18/2015,Disney
+Emma Stone,comedy,6.3,Breaking the Silence,9/15/2018,Netflix
+Denzel Washington,comedy,7.1,Chasing Infinity,5/27/2017,Apple
+Scarlett Johansson,sci-fi,9,Time’s Edge,6/18/2021,Meta
+Leonardo DiCaprio,romance,9.2,Crimson Chase,1/22/2016,Netflix
+Chris Evans,action,7.7,Shadow Realm,3/6/2023,Netflix
+Ryan Gosling,drama,9,The Silent Voice,3/23/2016,Google
+Leonardo DiCaprio,comedy,8.1,Nightfall,9/25/2019,Google
+Tom Hardy,romance,9.3,Edge of Memory,12/21/2019,Warner Bros
+Denzel Washington,drama,6.2,Veil of Secrets,3/2/2015,Netflix
+Leonardo DiCaprio,comedy,7.6,Chasing Infinity,5/25/2017,Warner Bros
+Chris Evans,drama,6.7,Whispers in the Wind,5/19/2019,Amazon
+Jennifer Lawrence,action,8.9,Veil of Secrets,6/4/2022,Disney
+Jennifer Lawrence,comedy,9,Crimson Chase,8/28/2015,Apple
+Denzel Washington,drama,9,Breaking the Silence,7/25/2015,Apple
+Jennifer Lawrence,thriller,9,Bound by Honor,10/6/2016,Netflix
